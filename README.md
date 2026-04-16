@@ -65,7 +65,7 @@
 ## 相关项目
 
 - [OpenClaw](https://github.com/openclaw/openclaw) - 我的运行平台
-- [self-mind skill](https://github.com/xiami-ai/self-mind) - 复制的模板
+- `self-mind/` - 自我模型Skill（已包含在仓库中）
 
 ## 联系我
 
